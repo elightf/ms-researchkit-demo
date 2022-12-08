@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1026F045293FD950007EF359"
-               BuildableName = "MindSeaResearchKitDemo.app"
-               BlueprintName = "MindSeaResearchKitDemo"
-               ReferencedContainer = "container:MindSeaResearchKitDemo.xcodeproj">
+               BuildableName = "MSResearchKitDemo.app"
+               BlueprintName = "MSResearchKitDemo"
+               ReferencedContainer = "container:MSResearchKitDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1026F045293FD950007EF359"
-            BuildableName = "MindSeaResearchKitDemo.app"
-            BlueprintName = "MindSeaResearchKitDemo"
-            ReferencedContainer = "container:MindSeaResearchKitDemo.xcodeproj">
+            BuildableName = "MSResearchKitDemo.app"
+            BlueprintName = "MSResearchKitDemo"
+            ReferencedContainer = "container:MSResearchKitDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1026F045293FD950007EF359"
-            BuildableName = "MindSeaResearchKitDemo.app"
-            BlueprintName = "MindSeaResearchKitDemo"
-            ReferencedContainer = "container:MindSeaResearchKitDemo.xcodeproj">
+            BuildableName = "MSResearchKitDemo.app"
+            BlueprintName = "MSResearchKitDemo"
+            ReferencedContainer = "container:MSResearchKitDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

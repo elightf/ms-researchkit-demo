@@ -2,12 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NSMotionUsageDescription</key>
-	<string>Recover would like to record device motion to assess your range of motion</string>
-	<key>NSHealthShareUsageDescription</key>
-	<string>Recover reads your HealthKit data during certain tasks.</string>
-	<key>NSHealthUpdateUsageDescription</key>
-	<string>Recover updates your HealthKit data during certain tasks.</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>11.0</string>
 	<key>UIApplicationSceneManifest</key>
