@@ -155,18 +155,18 @@ final class SurveyViewSynchronizer: OCKSurveyTaskViewSynchronizer {
 
         super.updateView(view, context: context)
 
-        if let event = context.viewModel.first?.first, event.outcome != nil {
-            view.instructionsLabel.isHidden = false
-            
-            let pain = event.answer(kind: Surveys.dropOrSpillItemIdentifier)
-            let sleep = event.answer(kind: Surveys.checkInSleepItemIdentifier)
-
-            view.instructionsLabel.text = """
-                Pain: \(Int(pain))
-                Sleep: \(Int(sleep)) hours
-                """
-        } else {
-            view.instructionsLabel.isHidden = true
-        }
+//        if let event = context.viewModel.first?.first, event.outcome != nil {
+//            view.instructionsLabel.isHidden = false
+//            
+//            let pain = event.answer(kind: Surveys.dropOrSpillItemIdentifier)
+//            let sleep = event.answer(kind: Surveys.checkInSleepItemIdentifier)
+//
+//            view.instructionsLabel.text = """
+//                Pain: \(Int(pain))
+//                Sleep: \(Int(sleep)) hours
+//                """
+//        } else {
+//            view.instructionsLabel.isHidden = true
+//        }
     }
 }
